@@ -1,0 +1,9 @@
+go 1.20
+
+use (
+	.
+	./Web
+	./update-db
+)
+
+
